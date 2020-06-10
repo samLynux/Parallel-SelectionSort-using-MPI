@@ -1,0 +1,3 @@
+﻿  00000025672_SamuelPutra_SelectionSort.cpp
+C:\Users\samue\Downloads\Work\PDT\UTS\00000025672_SamuelPutra_SelectionSort\00000025672_SamuelPutra_SelectionSort\00000025672_SamuelPutra_SelectionSort.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  00000025672_SamuelPutra_SelectionSort.vcxproj -> C:\Users\samue\Downloads\Work\PDT\UTS\00000025672_SamuelPutra_SelectionSort\Debug\00000025672_SamuelPutra_SelectionSort.exe
